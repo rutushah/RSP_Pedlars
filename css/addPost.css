@@ -1,0 +1,13 @@
+html{
+    position: relative;
+    min-height: 100%;
+  }
+
+body{
+    /* Margin bottom by footer height */
+    margin-bottom: 100px;
+    background-color: #f3f2f9;
+}
+.text-center{
+    color: #512da8;
+  }

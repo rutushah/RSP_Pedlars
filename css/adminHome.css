@@ -1,0 +1,21 @@
+html{
+    position: relative;
+    min-height: 100%;
+  }
+
+body{
+    /* Margin bottom by footer height */
+    margin-bottom: 100px;
+    background-color: #f3f2f9;
+}
+
+.btn-default
+{
+  background-color: #d1c9e7;
+  border-color: #2F3E48;
+  height: 100px;
+  width: 500px;
+  margin-top: 250px;
+  /* margin-left: 100px; */
+}
+
